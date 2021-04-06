@@ -1,0 +1,8 @@
+body{background-color: aqua;}
+.page{width:700px;margin: auto;}
+h1{width: 500px;color: brown;}
+.h2{color: darkblue}
+.nour{position: absolute;top:5px;left: 1000px;}
+.amel{display: flex;justify-content:space-around;}
+.conteneur{display: flex;justify-content:row;}
+
